@@ -24,4 +24,3 @@ Olá! 👋 Sou a Ana Alice, uma estudante apaixonada por desenvolver projetos e 
 
 ## Interesses
 - Desenvolvimento Web e Mobile
-- [Interesse 2, por exemplo, Inteligência Artificial]
