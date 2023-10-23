@@ -1,36 +1,30 @@
-# [Ana Alice]
-Olá! 👋 Sou [Seu Nome], um(a) [Sua Profissão ou Área de Estudo] apaixonado(a) por [Suas Principais Habilidades ou Interesses]. Atualmente, estou [O que você está fazendo atualmente, como estudando, trabalhando em um projeto específico, etc.].
+# Ana Alice
+Olá! 👋 Sou a Ana Alice, uma estudante apaixonada por desenvolver projetos e aprender sobre gestão de TI. Atualmente, estou cursando Desenvolvimento de Sistemas!
 
 ## Sobre Mim
-- 🔭 Estou atualmente trabalhando em [Projeto ou Empresa Atual].
-- 🌱 Estou aprendendo [Tecnologias ou Habilidades que você está aprendendo no momento].
-- 💬 Pergunte-me sobre [Áreas de conhecimento ou habilidades específicas nas quais você é especialista].
-- 📫 Como entrar em contato: [Seu Endereço de E-mail] | [Links para suas redes sociais, como LinkedIn, Twitter, etc.].
+- 🔭 Estou atualmente trabalhando em um projeto sobre um Website utilizando React e Next.js.
+- 🌱 Estou aprendendo React, Next.js e Typescript.
+- 📫 Contato: E-mail => anaalice1224@outlook.com | LinkedIn => www.linkedin.com/in/ana-alice-alves-950ab31b8
 
 ## Habilidades Técnicas
-- Linguagens de Programação: [Lista de Linguagens que você conhece]
-- Tecnologias: [Lista de Tecnologias ou Frameworks que você está familiarizado]
-- Ferramentas: [Lista de Ferramentas ou Softwares que você utiliza]
+- Linguagens de Programação: Javascript, 
+- Tecnologias: React, Tailwind, HTML, CSS, Bootstrap.
 
-## Projetos
-- [Nome do Projeto](Link para o Projeto no GitHub ou Site): Breve descrição do projeto.
-- [Nome do Projeto](Link para o Projeto no GitHub ou Site): Breve descrição do projeto.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width='40' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='40'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  width='40'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width='40' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width='40'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width='40' />
+
+
+
 
 ## Educação
-- [Grau Acadêmico, por exemplo, Bacharelado em Ciência da Computação](Nome da Instituição, Ano de Formatura)
-- [Qualquer Curso Adicional ou Certificações Relevantes]
-
-## Experiência Profissional
-- [Cargo ou Título do Trabalho](Nome da Empresa, Período de Trabalho)
-  - Descrição das responsabilidades e realizações no trabalho.
+- Técnico em Desenvolvimento de Sistemas.
+- Web Design (180h)
+- Linux (60h)
 
 ## Interesses
-- [Interesse 1, por exemplo, Desenvolvimento Web]
+- Desenvolvimento Web e Mobile
 - [Interesse 2, por exemplo, Inteligência Artificial]
-- [Outros Interesses]
-
-## Idiomas
-- [Idioma 1, por exemplo, Inglês]: [Seu Nível de Proficiência]
-- [Idioma 2, por exemplo, Espanhol]: [Seu Nível de Proficiência]
-
-Espero que isso lhe dê uma ideia de como estruturar um README sobre você! Sinta-se à vontade para personalizar e adicionar informações adicionais que você considere relevantes.
