@@ -18,9 +18,11 @@ Olá! 👋 Sou a Ana Alice, uma estudante apaixonada por desenvolver projetos e 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width='40' />
 
 ## Educação
+- Cursando Análise e Desenvolvimento de Sistemas
 - Técnico em Desenvolvimento de Sistemas.
 - Web Design (180h)
 - Linux (60h)
 
 ## Interesses
 - Desenvolvimento Web e Mobile
+- UX/UI Designer
