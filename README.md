@@ -1,5 +1,5 @@
 # Ana Alice
-Olá! 👋 Sou a Ana Alice, uma estudante apaixonada por desenvolver projetos e aprender sobre gestão de TI. Atualmente, estou cursando Desenvolvimento de Sistemas!
+Olá! 👋 Sou a Ana Alice, uma estudante apaixonada por desenvolver projetos e aprender sobre gestão de TI. Conclui o técnico em Desenvolvimento de Sistemas e atualmente estou cursando Análise e Desenvolvimento de Sistemas!
 
 ## Sobre Mim
 - 🔭 Estou atualmente trabalhando em um projeto sobre um Website utilizando React e Next.js.
